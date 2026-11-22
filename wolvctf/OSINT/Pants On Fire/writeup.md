@@ -13,6 +13,6 @@
 
 - **Flag:** ~~`great-bear-lake`~~
 
-![image-20261122150404602](/home/rares/Documents/ctfs/wolvctf/OSINT/Pants On Fire/image-20261122150404602.png)
+![image-20261122150404602](./image-20261122150404602.png)
 
-![image-20261122152606273](/home/rares/Documents/ctfs/wolvctf/OSINT/Pants On Fire/image-20261122152606273.png)
+![image-20261122152606273](./image-20261122152606273.png)

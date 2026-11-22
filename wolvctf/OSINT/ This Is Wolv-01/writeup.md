@@ -13,8 +13,8 @@
 3. **Museum <-> Martello Tower:** vintage radio museums housed inside a "Martello Tower" leads  to **Ye Olde Hurdy Gurdy Museum of Vintage Radio**, located inside the historic Martello Tower in **Howth, County Dublin, Ireland**. 
 4. **Founder and Curator:** Researching the history on the main page of Ye Olde Hurdy Gurdy Museum of Vintage Radio identifies its founder and longtime curator, **Patrick "Pat" Herbert**, who established the museum in the tower in 2003 using his personal collection and has passed away on the 18th of June 2020.
 
-![image-20261122155220482](/home/rares/Documents/ctfs/wolvctf/OSINT/ This Is Wolv-01/image-20261122155220482.png)
+![image-20261122155220482](./image-20261122155220482.png)
 
-![image-20261122155959598](/home/rares/Documents/ctfs/wolvctf/OSINT/ This Is Wolv-01/image-20261122155959598.png)
+![image-20261122155959598](./image-20261122155959598.png)
 
 - **Flag:** `wctf{Pat_Herbert}`

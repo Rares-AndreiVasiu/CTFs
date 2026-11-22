@@ -16,6 +16,6 @@
 
 - **Answer:** `9189158`
 
-![image-20261122145301133](/home/rares/Documents/ctfs/wolvctf/OSINT/ Maritime Origins/image-20261122145301133.png)
+![image-20261122145301133](/Maritime Origins/image-20261122145301133.png)
 
-![image-20261122145535168](/home/rares/Documents/ctfs/wolvctf/OSINT/ Maritime Origins/image-20261122145535168.png)
+![image-20261122145535168](/Maritime Origins/image-20261122145535168.png)
